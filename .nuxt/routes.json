@@ -1,0 +1,51 @@
+[
+  {
+    "name": "chat",
+    "path": "/chat",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-sponsors\\\\pages\\\\chat.vue",
+    "chunkName": "pages/chat",
+    "_name": "_698136ce"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-sponsors\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_3bab9de4"
+  },
+  {
+    "name": "stamps",
+    "path": "/stamps",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-sponsors\\\\pages\\\\stamps.vue",
+    "chunkName": "pages/stamps",
+    "_name": "_43e4fd06"
+  },
+  {
+    "name": "visitors",
+    "path": "/visitors",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-sponsors\\\\pages\\\\visitors.vue",
+    "chunkName": "pages/visitors",
+    "_name": "_a8c3408a"
+  },
+  {
+    "name": "booth-dashboard",
+    "path": "/booth/dashboard",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-sponsors\\\\pages\\\\booth\\\\dashboard.vue",
+    "chunkName": "pages/booth/dashboard",
+    "_name": "_3d07ddd8"
+  },
+  {
+    "name": "booth-information",
+    "path": "/booth/information",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-sponsors\\\\pages\\\\booth\\\\information.vue",
+    "chunkName": "pages/booth/information",
+    "_name": "_71d0b5ac"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-sponsors\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3893614c"
+  }
+]
